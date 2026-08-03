@@ -1,0 +1,17 @@
+# Environment
+.venv/
+.env
+
+# Data
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
